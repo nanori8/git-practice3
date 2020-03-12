@@ -1,0 +1,3 @@
+Name: nanori
+Age: 34
+Favorite Color: Yellow
